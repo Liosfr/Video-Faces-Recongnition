@@ -1,6 +1,6 @@
 # Video-Faces-Recongnition
 
-*My first program* in C# with Azure Face allows you to find person's frames in video from a profile picture.
+**My first program** in C# with Azure Face allows you to find person's frames in video from a profile picture.
 
 ## Setup
 
