@@ -11,6 +11,8 @@ FACE_SUBSCRIPTION_KEY : Azure key
 FACE_ENDPOINT : Azure face region endpoint
 ```
 
+Place 
+
 Move to the root of the project and compile it with the commands :
 
 ```
@@ -26,6 +28,8 @@ dotnet run --project FrameWorker
 
 An initialization of the program will then run to create the necessary folders to run the program.
 You will receive instructions about the files you intend to use such as videos or photos to be analyzed.
+
+Put your videos to be analyzed in the `"input/"` folder and the profile picture in `"tofind/"`.
 
 ## Packages : 
 
