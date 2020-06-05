@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Maxime\\Documents\\Code\\Défi Vidmizer\\FrameWorker\\FrameWorker\\FrameWorker.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Maxime\\Documents\\Code\\Défi Vidmizer\\FrameWorker\\FrameWorker\\FrameWorker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Maxime\\Documents\\Code\\Défi Vidmizer\\FrameWorker\\FrameWorker\\FrameWorker.csproj",
+        "projectName": "FrameWorker",
+        "projectPath": "C:\\Users\\Maxime\\Documents\\Code\\Défi Vidmizer\\FrameWorker\\FrameWorker\\FrameWorker.csproj",
+        "packagesPath": "C:\\Users\\Maxime\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Maxime\\Documents\\Code\\Défi Vidmizer\\FrameWorker\\FrameWorker\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Maxime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MediaToolkit": {
+              "target": "Package",
+              "version": "[1.1.0.1, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
